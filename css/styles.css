@@ -68,8 +68,8 @@ width: 24%;
 }
 
 .skill-row {
-    width: 50%;
-    margin: 65px auto 65px auto;
+    width: 60%;
+    margin: 5% auto 5% auto;
     text-align: left;
     line-height: 2;
 }
@@ -80,13 +80,13 @@ width: 24%;
 }
 
 .FerPic {
-    width: 25%;
+    width: 30%;
 }
 
 .dentist {
-    width: 17%;
+    width: 25%;
     float: left;
-    margin-right: 30px;
+    margin: 10% auto 15% auto 10%;
 
 }
 
@@ -97,15 +97,16 @@ hr {
     border-width: 7px;
     height: 2px;
     width: 4%;
+    margin: 5% auto 5% auto;
 }
 
 .program {
-    width: 17%;
+    width: 20%;
     float: right;
-    margin-left: 30px;
+    margin: 10% 5% 10% 5%;
 }
 .contact-me {
-margin-bottom: 15px;
+margin:5%;
 }
 .btn {
     -webkit-border-radius: 28;
